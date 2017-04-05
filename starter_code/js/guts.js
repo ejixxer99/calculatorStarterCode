@@ -43,5 +43,5 @@ function logBase10(x)
 
 function generateRandomNumber()
 {
-	
+	return(Math.random()*20*10)
 }
